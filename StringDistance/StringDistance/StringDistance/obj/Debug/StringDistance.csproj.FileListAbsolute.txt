@@ -1,0 +1,5 @@
+F:\EXP\C#\Algorithm\StringDistance\StringDistance\StringDistance\obj\Debug\StringDistance.csprojResolveAssemblyReference.cache
+F:\EXP\C#\Algorithm\StringDistance\StringDistance\StringDistance\bin\Debug\StringDistance.exe
+F:\EXP\C#\Algorithm\StringDistance\StringDistance\StringDistance\bin\Debug\StringDistance.pdb
+F:\EXP\C#\Algorithm\StringDistance\StringDistance\StringDistance\obj\Debug\StringDistance.exe
+F:\EXP\C#\Algorithm\StringDistance\StringDistance\StringDistance\obj\Debug\StringDistance.pdb

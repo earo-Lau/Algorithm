@@ -1,0 +1,5 @@
+F:\EXP\C#\Algorithm\RiverPass\FourManAndRiver\FourManAndRiver\bin\Debug\FourManAndRiver.exe
+F:\EXP\C#\Algorithm\RiverPass\FourManAndRiver\FourManAndRiver\bin\Debug\FourManAndRiver.pdb
+F:\EXP\C#\Algorithm\RiverPass\FourManAndRiver\FourManAndRiver\obj\Debug\FourManAndRiver.csprojResolveAssemblyReference.cache
+F:\EXP\C#\Algorithm\RiverPass\FourManAndRiver\FourManAndRiver\obj\Debug\FourManAndRiver.exe
+F:\EXP\C#\Algorithm\RiverPass\FourManAndRiver\FourManAndRiver\obj\Debug\FourManAndRiver.pdb
